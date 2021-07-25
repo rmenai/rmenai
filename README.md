@@ -12,6 +12,15 @@
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">
-  Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  Thought : "Life is full of choices…choose wisely!”</i></b> <img src="htt4://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
+
+<br>
+ <p align="center">
+  <a href="https://twitter.com/menai_rami"><img src="./icons/Twitter.svg" width=40px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/640422864125952004"><img src="./icons/Discord.svg" width=80px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/rmenai"><img src="./icons/Reddit.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="rami.menai@outlook.com"><img src="./icons/Outlook.svg" width=80px/></a>
+</p>
+<br>
