@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/rmenai/rmenai/main/coding-freak.gif width="400"/>
+  <img src="./coding-freak.gif" width="400"/>
 </p>
 
 <hr>
@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/rmenai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmenai&theme=react&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmenai&theme=ayu-mirage&hide_langs_below=1" />
   </a>
 
   <a href="https://github.com/rmenai">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmenai&show_icons=true&theme=react&count_private=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmenai&show_icons=true&theme=ayu-mirage&count_private=true" />
   </a>
 </p>
 
