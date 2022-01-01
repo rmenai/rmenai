@@ -1,31 +1,35 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/rmenai/rmenai/main/coding-freak.gif height="300"/>
+  <img src=https://raw.githubusercontent.com/rmenai/rmenai/main/coding-freak.gif width="400"/>
 </p>
+
 <hr>
-<h1 align="center"> A self-taught developer </h1>
+
+<h1 align="center"> Rami Menai </h1>
 
 <p align="center">
-  <em>
-    Hello, I'm Menai Rami, a high school student.
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"
-    width="30px"> and a <b>Software Engineer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">
-  Thought : "Life is full of choices…choose wisely!”</i></b> <img src="htt4://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  Currently a <b> high school student </b>,
+  a passionate <b> self-learner </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  and a future <b> software engineer </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">.
 </p>
-<br><br>
+
+<p align="center">
+  <b><i align="center"> Thought : <q>We live our dreams or we dream our lives</q> </i></b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rmenai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmenai&theme=react&hide_langs_below=1" />
+  </a>
+
+  <a href="https://github.com/rmenai">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmenai&show_icons=true&theme=react&count_private=true" />
+  </a>
+</p>
 
 <br>
  <p align="center">
   <a href="https://twitter.com/menai_rami"><img src="./icons/Twitter.svg" width=40px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/640422864125952004"><img src="./icons/Discord.svg" width=80px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/rmenai"><img src="./icons/Reddit.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/rmenai"><img src="./icons/Leetcode.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
    <a href="mailto: rami.menai@outlook.com"><img src="./icons/Outlook.svg" width=80px/></a>
 </p>
-<p align="center">
-  <a href="https://trello.com/rmenai"><img src="./icons/Trello.svg" width=40px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/rmenai/"><img src="./icons/Leetcode.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/12290250/rami-menai"><img src="./icons/Stackoverflow.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
