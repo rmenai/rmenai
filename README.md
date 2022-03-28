@@ -30,6 +30,6 @@
  <p align="center">
   <a href="https://twitter.com/menai_rami"><img src="./icons/Twitter.svg" width=40px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/640422864125952004"><img src="./icons/Discord.svg" width=80px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/rmenai"><img src="./icons/Leetcode.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/rmenai/"><img src="./icons/Leetcode.svg" width=40px/></a>&nbsp;&nbsp;&nbsp;
    <a href="mailto: rami.menai@outlook.com"><img src="./icons/Outlook.svg" width=80px/></a>
 </p>
