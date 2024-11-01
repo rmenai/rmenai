@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Rami Menai
+  # [Rami Menai](https://menai.me)
   
   Currently a **sophomore**, a passionate **learner** and a future **pentester**.
 
