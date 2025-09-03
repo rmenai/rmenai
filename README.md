@@ -2,7 +2,7 @@
   
   # [Rami Menai](https://menai.me)
   
-  Currently a **sophomore**, a passionate **learner** and a future **pentester**.
+  Currently a second-year student and a passionate learner exploring low-level stuff
 
   **_Thought:_** *“We live our dreams or we dream our lives”*
 
